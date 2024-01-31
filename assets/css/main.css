@@ -1165,8 +1165,8 @@ section {
 
 .portfolio .portfolio-wrap img {
   transition: 0.3s;
-  height: 250px;
-  width: 500px;
+  height: 200px;
+  width: 100%;
   position: relative;
   z-index: 1;
 }
@@ -1920,6 +1920,7 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
   letter-spacing: 1px;
   display: inline-block;
   padding: 14px 40px;
+  margin-left: 22%;
   border-radius: 50px;
   transition: 0.3s;
   color: #fff;
