@@ -1165,6 +1165,8 @@ section {
 
 .portfolio .portfolio-wrap img {
   transition: 0.3s;
+  height: 250px;
+  width: 500px;
   position: relative;
   z-index: 1;
 }
